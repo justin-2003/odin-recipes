@@ -1,0 +1,25 @@
+*{
+    background-color: #3A4F50;
+}
+
+#h1{
+    background-color: #F4FEFD;
+    text-align: center;
+}
+
+li, ul, ol{
+    background-color: #3A4F50;
+    color: white;
+} 
+
+.titles{
+    background-color: #F4FEFD;
+    text-align: center;
+    border: red;
+    padding: 10px;
+}
+
+body{
+    background-color: #3A4F50;
+    padding: 20px;
+}                                                                                           
