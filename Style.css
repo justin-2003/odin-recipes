@@ -15,7 +15,6 @@ li, ul, ol{
 .titles{
     background-color: #F4FEFD;
     text-align: center;
-    border: red;
     padding: 10px;
 }
 
@@ -23,3 +22,9 @@ body{
     background-color: #3A4F50;
     padding: 20px;
 }                                                                                           
+
+.Vanilla-titles{
+    background-color: #F4FEFD;
+    text-align: center;
+    padding: 10px;
+}
