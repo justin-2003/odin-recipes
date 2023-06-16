@@ -40,3 +40,17 @@ body{
     color: black;
     padding: 15px;
 }
+
+.VanillaCrepeslist{
+    display: inline-block;
+    width: 200px;
+}
+
+.VanillaCrepesDirections{
+    display: inline-block;
+    width: 450px;
+
+}
+img{
+    display: inline-block;
+}
