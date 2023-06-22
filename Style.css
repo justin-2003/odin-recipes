@@ -5,7 +5,7 @@
 #h1{
     background-color: #F4FEFD;
     text-align: center;
-    margin: 1px;
+    margin: 15px;
 }
 
 li, ul, ol{
@@ -35,7 +35,6 @@ body{
     background-color: #F4FEFD;
     text-align: center;
     padding: 10px;
-
 }
 
 .links{
@@ -47,7 +46,7 @@ body{
 .VanillaCrepeslist{
     display: inline-block;
     width: 200px;
-    margin-top: -30px;
+    margin-top: -20px;
 }
 
 .VanillaCrepesDirections{
@@ -57,6 +56,5 @@ body{
 
 .img{
     display: inline-flex;
-   height: 250px;
-   margin-top: 0; 
+    height: 250px;
 }
